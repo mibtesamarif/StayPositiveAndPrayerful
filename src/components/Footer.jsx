@@ -40,8 +40,8 @@ const Footer = () => {
             </h4>
             <ul className="space-y-2">
               {/* <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Daily Devotionals</a></li> */}
-              <li><a href="https://www.youtube.com/watch?si=_QwJtKUVbfN24wYf&v=kiwTHvI8Gys&feature=youtu.be" className="text-gray-400 hover:text-white transition-colors">Prayer Guides</a></li>
-              <li><a href="https://www.biblegateway.com/reading-plans/" className="text-gray-400 hover:text-white transition-colors">Bible Study Materials</a></li>
+              <li><a href="https://Christianchurchstore.com">Prayer Guides</a></li>
+              <li><a href="https://v.lemon8-app.com/al/OgMFwvhfbm">Bible Study Materials</a></li>
               {/* <li><a href="#" className="text-gray-400 hover:text-white transition-colors">E-Books</a></li> */}
             </ul>
           </div>

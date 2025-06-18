@@ -12,8 +12,8 @@ const CtaBoxes = () => {
     {
       title: "Volunteer Opportunities",
       description: "Use your gifts and talents to serve others and make a positive impact in our community.",
-      buttonText: "Claim Your Gift",
-      link: "https://drive.google.com/file/d/1JLosCQRhkplm4YDhOjTlgqo0ee4GysFj/view?usp=drive_link"
+      buttonText: "Contact Us",
+      link: "https://Christianchurchstore.com"
     },
     {
       title: "Pray, Support and Share",
